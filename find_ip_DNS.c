@@ -4,7 +4,7 @@
 #include<netdb.h>	//hostent
 #include<arpa/inet.h>
 #include <stdint.h>
-
+//test
 int main(int argc , char *argv[])
 {
 	char *hostname = "www.google.com";
